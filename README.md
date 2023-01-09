@@ -1,4 +1,4 @@
-#NextJS-SmartContract-Lottery
+# NextJS-SmartContract-Lottery
 
 ## Getting Started
 
